@@ -18,7 +18,9 @@
     npm install
   
   Make sure you change the default info inside package.json to reflect your project's info, specifically the
-  "name" value
+  "name" value. You can now start the app using the following:
+  
+    node app.js
 
 ## Features
 
